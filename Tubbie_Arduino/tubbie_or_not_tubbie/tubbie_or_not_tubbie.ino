@@ -1,3 +1,5 @@
+//Tubbie or not Tubbie arduino code
+
 #include <DmxSimple.h>
 
 #define trigPin 4
