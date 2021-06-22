@@ -175,7 +175,7 @@ void brightenLights() {
     if (b < litB) {
       b++;
     }
-    delay(5);
+    delay(8 );
     sendDMX(r, g, b, 0);
   }
   startTime = millis();
